@@ -47,7 +47,7 @@ The dashboard analyses the following marketing metrics:
 
 Provides a high-level overview of overall marketing campaign performance using key performance indicators and visualisations.
 
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](//Image/Executive Dashboard.png)
 
 ---
 
@@ -55,7 +55,7 @@ Provides a high-level overview of overall marketing campaign performance using k
 
 Provides insights into campaign performance across different audience segments and helps identify differences in engagement and conversion behaviour.
 
-![Audience Dashboard](images/audience-dashboard.png)
+![Audience Dashboard](/Image/Audience 2.png)
 
 ---
 
@@ -63,7 +63,7 @@ Provides insights into campaign performance across different audience segments a
 
 Focuses on advertising costs, revenue, acquisition costs and return on advertising investment.
 
-![Financial Dashboard](images/financial-dashboard.png)
+![Financial Dashboard](/Image/Campaign Objectives.png)
 
 ---
 
@@ -71,8 +71,7 @@ Focuses on advertising costs, revenue, acquisition costs and return on advertisi
 
 Examines campaign performance across different countries and geographic locations.
 
-![Geographic Dashboard](images/geographic-dashboard.png)
-
+![Geographic Dashboard](/Image/Ad_spend.png)
 ---
 
 ## 🔄 Project Workflow
